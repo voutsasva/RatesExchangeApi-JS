@@ -9,7 +9,7 @@ RatesExchangeApi is a free JSON API for current and historical foreign exchange 
 - You need an API key provided from the [Rates Exchange API](https://ratesexchange.eu/). It's free
 - Clone this repo and edit the `getData.js` file
 - Replace the `[REPLACE_THIS_VALUE_WITH_YOUR_ACCESS_KEY]` in `getData.js` with your own API key from rates exchange api
-- Open the index.html with your browser. Latest rates should appear in your screen
+- Open the index.html with your browser. ECB latest rates should appear in your screen
 
 ## Communication
 
@@ -24,4 +24,4 @@ Vassilis Voutsas, voutsasva@gmail.com
 
 ## License
 
-ECB Currency Converter is released under the MIT license. See [LICENSE](https://github.com/voutsasva/RatesExchangeApi_iOS/blob/master/LICENSE) for more information.
+ECB Currency Converter is released under the MIT license. See [LICENSE](https://github.com/voutsasva/RatesExchangeApi-JS/blob/master/LICENSE) for more information.
