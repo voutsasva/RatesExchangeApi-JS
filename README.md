@@ -24,4 +24,4 @@ Vassilis Voutsas, voutsasva@gmail.com
 
 ## License
 
-ECB Currency Converter is released under the MIT license. See [LICENSE](https://github.com/voutsasva/RatesExchangeApi-JS/blob/master/LICENSE) for more information.
+This project is released under the MIT license. See [LICENSE](https://github.com/voutsasva/RatesExchangeApi-JS/blob/master/LICENSE) for more information.
